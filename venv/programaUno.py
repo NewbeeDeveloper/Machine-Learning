@@ -17,6 +17,5 @@ x[:,1:3] = imputer.transform(x[:,1:3]) # Actualiza la feature matrix con la medi
 
 print(x)
 
-
-
+#Comentario prueba
 
